@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@a7a90ed0-6167-498d-be6b-729faea8dadb" />
+        <remote-mappings server-id="python@sftp://huangpei@192.168.20.7:22/pub/data/huangpei/anaconda3/envs/textfooler/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/pub/data/huangpei/WordRobust" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://huangpei@192.168.20.2:22/pub/data/huangpei/anaconda3/envs/textfooler/bin/python3.6">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/pub/data/huangpei/WordRobust" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
